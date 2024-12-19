@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint1</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/LoginData</source-url>
+   </source-info>
+   <taken-date>2024-12-19T12:21:10.023+05:30</taken-date>
+   <column-names>
+      <column-name>Company Doc</column-name>
+      <column-name>Certificate of Incorporation*</column-name>
+      <column-name>Either</column-name>
+      <column-name>1. companyMoreThan1YearOld check - optional
+2. companyNumber
+3. companyName
+4. issusing Authority Check (Company House,
+</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Shareholding Structure",
+      "checked": true
+    },
+    {
+      "value": "Memorandum of Association from CAC/CAC Status Report - please provide a document detailing the ownership of the business as a percentage/number of shares by natural persons*",
+      "checked": false
+    },
+    {
+      "value": "PDF Only",
+      "checked": false
+    },
+    {
+      "value": "1. Company Name\n2. UBO Name match - only for eligible UBO - 25% of ownership\n3. issuing Authority check",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "",
+      "checked": false
+    },
+    {
+      "value": "",
+      "checked": false
+    },
+    {
+      "value": "",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Supporting Doc",
+      "checked": true
+    },
+    {
+      "value": "Source of Funds - Audited accounts or a bank statement issued in the last 3 months in PDF format or a financial statement",
+      "checked": false
+    },
+    {
+      "value": "Either ",
+      "checked": false
+    },
+    {
+      "value": "1. company name\n2. monthly transaction volume /rough monthly revenue volume\n3. Validatity of document (Bank statement , financial statement)",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "",
+      "checked": false
+    },
+    {
+      "value": "Supplier Invoices",
+      "checked": false
+    },
+    {
+      "value": "Either ",
+      "checked": false
+    },
+    {
+      "value": "1. company name\n2. monthly transaction volume /rough monthly revenue volume\n3. Validatity of document (Bank statement , financial statement)",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "",
+      "checked": false
+    },
+    {
+      "value": "",
+      "checked": false
+    },
+    {
+      "value": "",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Proof of Address",
+      "checked": true
+    },
+    {
+      "value": "Business bank statement issued in the last 3 months in PDF format. Must contain company name and address.",
+      "checked": false
+    },
+    {
+      "value": "PDF Only",
+      "checked": false
+    },
+    {
+      "value": "1. Bussiness name check\n2. Address match check\n3. Bank Statement is less than 3 months old check\n4. issuing Bank check.-optional\n",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "",
+      "checked": false
+    },
+    {
+      "value": "Business Utility Bill issued in the last 3 months in PDF format. Must contain company name and address.",
+      "checked": false
+    },
+    {
+      "value": "Either",
+      "checked": false
+    },
+    {
+      "value": "1. Bussiness name check\n2. Address match check\n3. Utility Bill is less than 3 months old check\n4. Utility Bill issuer - optional\"",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "",
+      "checked": false
+    },
+    {
+      "value": "Alternatively a valid lease agreement.",
+      "checked": false
+    },
+    {
+      "value": "Image Formats",
+      "checked": false
+    },
+    {
+      "value": "1. Bussiness name check\n2. Address match check\n3.Lease agreement validity",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "",
+      "checked": false
+    },
+    {
+      "value": "",
+      "checked": false
+    },
+    {
+      "value": "",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "UBO ID",
+      "checked": true
+    },
+    {
+      "value": "Valid Passport",
+      "checked": false
+    },
+    {
+      "value": "Image Formats",
+      "checked": false
+    },
+    {
+      "value": "1. Full Name check\n2. DOB check\n3. Passport",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "",
+      "checked": false
+    },
+    {
+      "value": "Government issued digital NIN slip/Valid Driver\u0027s Licence",
+      "checked": false
+    },
+    {
+      "value": "Image Formats",
+      "checked": false
+    },
+    {
+      "value": "1. Full Name check\n2. DOB check\n3. driving license",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "",
+      "checked": false
+    },
+    {
+      "value": "",
+      "checked": false
+    },
+    {
+      "value": "",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Proof of Address",
+      "checked": false
+    },
+    {
+      "value": "Personal Bank statement issued in the last 3 months in PDF must contain the name and physical address",
+      "checked": false
+    },
+    {
+      "value": "PDF Only",
+      "checked": false
+    },
+    {
+      "value": "1. Name\n2. Address\n3. Validity bank statement",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "",
+      "checked": false
+    },
+    {
+      "value": "A valid drivers Licence ( in JPEG / PNG/JPG Format)",
+      "checked": false
+    },
+    {
+      "value": "Image Formats",
+      "checked": false
+    },
+    {
+      "value": "1. Name\n2. Address\n3. Validity -driving license",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "",
+      "checked": false
+    },
+    {
+      "value": "A valid Voters Card ( in JPEG / PNG Format)",
+      "checked": false
+    },
+    {
+      "value": "Image Formats",
+      "checked": false
+    },
+    {
+      "value": "1. Name\n2. Address\n3. Validity - Voter Card",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "",
+      "checked": false
+    },
+    {
+      "value": "Paper NIN Slip.",
+      "checked": false
+    },
+    {
+      "value": "Either",
+      "checked": false
+    },
+    {
+      "value": "\"1. Name\n2. Address\n3. Validity - National id ",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "",
+      "checked": false
+    },
+    {
+      "value": "",
+      "checked": false
+    },
+    {
+      "value": "",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
