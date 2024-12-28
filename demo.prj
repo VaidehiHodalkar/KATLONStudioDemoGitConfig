@@ -9,9 +9,9 @@
    <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>ENTERPRISE</modifiedEdition>
-   <modifiedVersion>10.0.0</modifiedVersion>
+   <modifiedVersion>10.0.1</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\vaidehihodalkar\Katalon Studio\demo\demo.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\vaidehihodalkar\git\KATLONStudioDemoGitConfig\demo.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
